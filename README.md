@@ -1,7 +1,7 @@
 # BlueRoseClient
 
 # How to use
-- Download the latest release from the [releases](https://github.com/FragileNuclear22/BlueRoseClient/releases/tag/latest) tab.
+- Download the latest release from the [releases](https://github.com/FragileNuclear22/BlueRoseClient/releases/latest) tab.
 - Install Forge for 1.8.9.
 - Press windows + R and type %appdata%.
 - Navigate to .minecraft\mods and drop the jar in the mods folder. (If the mods folder does not yet exist simply create it.)
